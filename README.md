@@ -30,22 +30,21 @@ considered while developing a website.
 
 3. Apply CSS and Bootstrap on Assignment 2
 
-4. Implement Registration and Login Authentication using Java script.
+4. Implement Registration and Login Authentication using Javascript.
 
 5. Try making a to-do list app using AngularJs. The app should have the following features:
        
-    1. A form which allows you to add a to-do item
+    1. A form which allows you to add a to-do item.
     2. A delete button that will allow you to delete a particular todo item
     3. An edit portion which will allow you to edit a particular to-do item.
 
-6.Implement a web page index.htm for any client website (e.g., a restaurant website project) using the following:
+6. Implement a web page index.htm for any client website (e.g., a restaurant website project) using the following:
 
-   a. HTML syntax: heading tags, basic tags and attributes, frames, tables, images, lists, links for text and images, forms etc.
-   
-   b. Use of Internal CSS, Inline CSS, External CSS and ReactJS.
+   1.  HTML syntax: heading tags, basic tags and attributes, frames, tables, images, lists, links for text and images, forms etc.
+   2. Use of Internal CSS, Inline CSS, External CSS and ReactJS.
 
-7. Implement Database application using JSP/Servlet
+7. Implement Database application using JSP/Servlet.
 
-8.Build a dynamic web application using Spring boot and perform basic database operations
+8. Build a dynamic web application using Spring boot and perform basic database operations.
 
 9. Mini Project: Design and implement a dynamic web application for any business functionality using web development technologies that you have learnt in this course.
